@@ -1,0 +1,1 @@
+This project simulates the Man in the middle aatack. Implementation details could be found in the diagramMITM.
